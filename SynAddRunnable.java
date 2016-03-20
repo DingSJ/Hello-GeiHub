@@ -1,7 +1,7 @@
 package cn.china.test;
 
 /**
- * ÑİÊ¾Ïß³ÌËÀËø
+ * æµ‹è¯•çº¿ç¨‹æ­»é”ç°è±¡
  * */
 public class SynAddRunnable implements Runnable{
 	int a, b;
